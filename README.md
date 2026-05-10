@@ -25,7 +25,7 @@ This project is a comprehensive guide and implementation of a **Mobile Automatio
 
 ## 🎬 Video Tutorial
 You can find the full explanation and step-by-step setup on my YouTube channel:
-[Watch the Tutorial Here](https://youtu.be/tWU1R_0am8g?si=briwZvZ712R0aYuD)
+[Watch the Tutorial Here](https://youtu.be/tWU1R_0am8g?si=xS9xBP6s2eaRyRin)
 
 ---
 Developed with ❤️ by **Menna Allah Tarek El-Shahid**
